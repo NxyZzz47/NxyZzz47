@@ -1,4 +1,4 @@
-# Hi there, I'm [ชื่อของคุณ]! 👋
+# Hi there, I'm Thanesuan | Ney 👋
 > Computer Science Student | Developer | Learner
 ---
 
@@ -37,11 +37,5 @@
 **Development Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### 📫 Connect with me
-- 📞 Phone: 082-6591281
-- 📧 Email: tanasarun9000@gmail.com
 
 Thanks for visiting!
