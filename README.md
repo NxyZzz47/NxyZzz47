@@ -1,15 +1,17 @@
 # Hi there, I'm Thanesuan | Ney 👋
-> Computer Science Student | Developer | Learner
+> Computer Science Student | Data analyst | Learner
 ---
 
 ### 🚀 About Me
 
 ผมเป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่หลงใหลในการเขียนโปรแกรม สนใจทั้งการพัฒนา Web Application, Mobile App และ Data Analysis กำลังมองหาโอกาสในการเรียนรู้เทคโนโลยีใหม่ๆ อยู่เสมอครับ
 
-- 🔭 I’m currently working on Mobile App `flutter`
-- 🌱 I’m currently learning Data Analyst 
-- 👯 I’m looking to collaborate on ... (ประเภทงานที่อยากแจม)
-- ⚡ Fun fact: ... (เรื่องตลกหรือเรื่องน่าสนใจเกี่ยวกับตัวเอง)
+🔭 **I’m currently working on**
+- Mobile App Development with Flutter `flutter`
+
+🌱 **I’m currently learning**
+- Data Analyst & Visualization
+- SQL Tableau Looker Python R
 
 ---
 
@@ -38,4 +40,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-Thanks for visiting!
+##Thanks for visiting!
