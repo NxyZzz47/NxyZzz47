@@ -1,5 +1,5 @@
 # Hi there, I'm Thanesuan | Ney 👋
-> Computer Science Student | Data analyst | Learner
+> Computer Science Student | Learner
 ---
 
 ### 🚀 About Me
@@ -7,10 +7,10 @@
 ผมเป็นนักศึกษาวิทยาการคอมพิวเตอร์ที่หลงใหลในการเขียนโปรแกรม สนใจทั้งการพัฒนา Web Application, Mobile App และ Data Analysis กำลังมองหาโอกาสในการเรียนรู้เทคโนโลยีใหม่ๆ อยู่เสมอครับ
 
 🔭 **I’m currently working on**
-- Mobile App Development with Flutter `flutter`
+- Mobile App Development with Flutter `Flutter-Mobile-App`
 
 🌱 **I’m currently learning**
-- Data Analyst & Visualization
+- Data Analysis & Visualization
 - SQL Tableau Looker Python R
 
 ---
