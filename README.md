@@ -6,7 +6,7 @@
 I'm a **Computer Science Student** at Songkhla Rajabhat University (SKRU) who is passionate about transforming raw data into intelligent solutions. I bridge the gap between application development and data science through automation and cloud-based AI.
 
 🔭 **I’m currently working on**
-- Mobile App Development with Flutter `Flutter-Mobile-App`
+- Mobile App Development with Flutter (https://github.com/NxyZzz47/Flutter-Mobile-App)
 
 🌱 **I’m currently learning**
 - Data Analysis & Visualization
@@ -16,7 +16,7 @@ I'm a **Computer Science Student** at Songkhla Rajabhat University (SKRU) who is
 
 ### 🛠️ Tech Stack & Tools
 
-- **Data & AI:** Python (Pandas, Scikit-learn), R, Thai NLP (PyThaiNLP), Machine Learning.
+- **Data & AI:** Python (Pandas, Scikit-learn), R, Thai NLP (PyThaiNLP).
 - **Automation:** n8n Workflow, AI Agents (LLM), LINE Messaging API, JSON.
 - **Back-end:** Node.js, Express, SQL (MySQL), TypeScript.
 - **Front-end & Mobile:** HTML/CSS (Tailwind), JavaScript, Flutter (Dart).
